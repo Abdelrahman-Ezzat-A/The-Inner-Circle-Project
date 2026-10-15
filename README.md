@@ -1,2 +1,2 @@
-# the-inner-circle-project
-The final project for DEPI 5
+# The-Inner-Circle-Project
+The final project for DEPI 5 about 
